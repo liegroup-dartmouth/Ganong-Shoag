@@ -2,7 +2,7 @@ set more off
 version 16
 
 //do path
-global src = "./src_data"
+global src = "./data/src_data"
 global work = "./output/work_final"
 global out = "./output/out_final"
 
